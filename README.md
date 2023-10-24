@@ -1,2 +1,2 @@
 # Samurai
-The most secure password manager for ArqamFC teaam
+The most secure password manager for ArqamFC team
